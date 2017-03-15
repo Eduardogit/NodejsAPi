@@ -1,0 +1,12 @@
+https://zellwk.com/blog/crud-express-mongodb/
+
+#api
+https://carlosazaustre.es/blog/como-crear-una-api-rest-usando-node-js/
+https://zellwk.com/blog/crud-express-mongodb/
+https://www.sitepoint.com/creating-restful-apis-express-4/
+
+#express
+http://www.codekitchen.ca/guide-to-structuring-and-building-a-restful-api-using-express-4/
+
+#bestpractices
+http://stackoverflow.com/questions/18594270/expressjs-mongoose-rest-api-structure-best-practices
